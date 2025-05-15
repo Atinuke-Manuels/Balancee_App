@@ -14,4 +14,5 @@ A simple Flutter app that lets users book a vehicle repair service.
 3. Run app with `flutter run`
 
 ## Demo
-[balancee_app.apk](build/app/outputs/flutter-apk/balancee_app.apk)
+- demo Link - https://drive.google.com/file/d/1L8mvmzJreQmWWjWXeRocq0b6yxbl8T8V/view?usp=sharing
+- app apk can be found in (build/app/outputs/flutter-apk/balancee_app.apk)
