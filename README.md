@@ -1,4 +1,4 @@
-# Vehicle Repair Booking App
+# Balanceé - Vehicle Repair Booking App
 
 A simple Flutter app that lets users book a vehicle repair service.
 
